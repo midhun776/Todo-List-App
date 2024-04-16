@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94009780338",
+    "project_id": "cloudjetpackinternal",
+    "storage_bucket": "cloudjetpackinternal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94009780338:android:3a491747353c481911baeb",
+        "android_client_info": {
+          "package_name": "com.example.cloudjetpackinternal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAK4FzlbUVakm3_1Eo5ZNMSYzIVDSLzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
